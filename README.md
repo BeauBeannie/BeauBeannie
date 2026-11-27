@@ -23,7 +23,6 @@
 
 <h3 align="center">◈ CHARACTER STATUS ◈</h3>
 
-<img src="https://img.shields.io/badge/CLASS-UI%2FUX%20GAME%20ARTIST-8957E5?style=for-the-badge">
 
 <table>
 <tr>
@@ -43,7 +42,6 @@
 
 <h3 align="center">◈ SKILL TREE ◈</h3>
 
-<img src="https://img.shields.io/badge/STATUS-LEVELING%20UP-DAA520?style=for-the-badge">
 
 <table>
 <tr>
@@ -88,7 +86,7 @@
 
 ---
 
-<img src="./asset/mario-bros-star-star-arcade.gif" width="32">
+<img src="./asset/mario-bros-star-star-arcade.gif" width="64">
 
 **100% HADES ACHIEVEMENT**
 

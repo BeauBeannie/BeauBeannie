@@ -45,7 +45,7 @@
 
 ---
 
-<img src="./asset/zagreus-anikhai.gif" width="200" alt="Zagreus fishing">
+<img src="./asset/zagreus-anikhai.gif" width="150" alt="Zagreus fishing">
 
 **100% HADES ACHIEVEMENT**
 

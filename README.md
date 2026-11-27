@@ -7,7 +7,7 @@
 
 `UNITY` · `C#` · `PIXEL ART` · `FIGMA`
 
-*Building worlds, polishing interfaces, and making pixels come alive.*
+*what is life without whimsy*
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-Visit%20Website-8957E5?style=for-the-badge)](https://zaynepeladas.vercel.app)
 

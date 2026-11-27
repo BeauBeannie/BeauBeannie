@@ -1,13 +1,17 @@
 
 <div align="center">
 
-
-
-### JUNIOR GAME DEVELOPER
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=999999&color=E63946&center=true&vCenter=true&width=600&lines=GAME+DEVELOPER" />
+</div>
 
 `UNITY` · `C#` · `PIXEL ART` · `FIGMA`
 
-*What is life without whimsy? Aoshima, awayyy!*
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Default&size=16&duration=4000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=600&lines=What+is+life+without+whimsy%3F+Aoshima%2C+awayyy%21)](https://git.io/typing-svg)
+
+</div>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-Visit%20Website-E63946?style=for-the-badge)](https://zaynepeladas.vercel.app)
 

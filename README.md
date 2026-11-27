@@ -45,11 +45,11 @@
 
 ---
 
-<img src="./asset/mario-bros-star-star-arcade.gif" width="64">
+<img src="./asset/zagreus-anikhai.gif" width="200" alt="Zagreus fishing">
 
 **100% HADES ACHIEVEMENT**
 
-<img src="./asset/zagreus-anikhai.gif" width="200" alt="Zagreus fishing">
+
 
 *Thanks for stopping by, JPXFRD.*
 

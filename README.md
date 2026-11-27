@@ -1,4 +1,4 @@
-# Hi, I'm [Zayne]
+
 
 **Junior UI/UX Game Artist** · Unity · C# · Pixel Art · Figma
 
@@ -19,6 +19,15 @@ I build and polish game interfaces in Unity, from Figma design to working in-gam
 - Tinguha sa Bulan, an AR mobile game that promotes Cebuano literature
 
 ---
+
+##Sidequest
+<h3>
+  <img src="./asset/mario-bros-star-star-arcade.gif">
+  100% Hades Achievement
+  <img src="mario-bros-star-star-arcade" width="24">
+</h3>
+
+<img src="./asset/zagreus-anikhai.gif" width="220" alt="zagreus-anikhai">
 
 ## My Contribution Graph
 

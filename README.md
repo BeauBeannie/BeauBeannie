@@ -49,6 +49,6 @@
 
 *Thanks for stopping by, fellow adventurer.*
 
-[![INSERT COIN](https://img.shields.io/badge/INSERT_COIN_TO_CONTINUE-E63946?style=for-the-badge&logo=gamepad&logoColor=white)](#)
+[![INSERT COIN](https://img.shields.io/badge/INSERT_COIN_TO_CONTINUE-E63946?style=for-the-badge)](https://en.wikipedia.org/wiki/Gold_coin)
 
 </div>

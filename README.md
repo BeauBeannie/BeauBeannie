@@ -22,7 +22,7 @@ I build and polish game interfaces in Unity, from Figma design to working in-gam
 
 ## My Contribution Graph
 
-<!-- pacman -->
+<!-- galaga -->
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BeauBeannie/BeauBeannie/output/galaga-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BeauBeannie/BeauBeannie/output/galaga-contribution-graph.svg">

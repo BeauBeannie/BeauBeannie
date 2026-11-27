@@ -51,7 +51,7 @@
 
 <img src="./asset/zagreus-anikhai.gif" width="200" alt="Zagreus fishing">
 
-*Thanks for stopping by, fellow adventurer.*
+*Thanks for stopping by, JPXFRD.*
 
 [![INSERT COIN](https://img.shields.io/badge/INSERT_COIN_TO_CONTINUE-E63946?style=for-the-badge)](https://en.wikipedia.org/wiki/Gold_coin)
 

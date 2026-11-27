@@ -1,53 +1,101 @@
 
+<div align="center">
 
-**Junior UI/UX Game Artist** · Unity · C# · Pixel Art · Figma
 
-I build and polish game interfaces in Unity, from Figma design to working in-game UI. I also make and animate pixel art, and I test what I build.
 
-[![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)](#)
-[![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)](#)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](#)
-[![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)](#)
+### JUNIOR UI/UX GAME ARTIST
 
-**Portfolio:** [your-portfolio-link](https://your-portfolio-link)
+`UNITY` · `C#` · `PIXEL ART` · `FIGMA`
 
----
+*Building worlds, polishing interfaces, and making pixels come alive.*
 
-## What I'm working on
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Visit%20Website-8957E5?style=for-the-badge)](https://zaynepeladas.vercel.app)
 
-- UI/UX implementation in Unity at Mega Cat Studios (*Backyard Baseball*, out on Steam)
-- Tinguha sa Bulan, an AR mobile game that promotes Cebuano literature
+</div>
 
 ---
 
-##Sidequest
-<h3>
-  <img src="./asset/mario-bros-star-star-arcade.gif">
-  100% Hades Achievement
-  <img src="mario-bros-star-star-arcade" width="24">
-</h3>
+<div align="center">
 
-<img src="./asset/zagreus-anikhai.gif" width="220" alt="zagreus-anikhai">
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
 
-## My Contribution Graph
+<h3 align="center">◈ CHARACTER STATUS ◈</h3>
 
-<!-- galaga -->
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BeauBeannie/BeauBeannie/output/galaga-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BeauBeannie/BeauBeannie/output/galaga-contribution-graph.svg">
-    <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/BeauBeannie/BeauBeannie/output/galaga-contribution-graph.svg">
-</picture>
+<img src="https://img.shields.io/badge/CLASS-UI%2FUX%20GAME%20ARTIST-8957E5?style=for-the-badge">
+
+<table>
+<tr>
+<td align="center" bgcolor="#241936"><b>ATTRIBUTE</b></td>
+<td align="center" bgcolor="#241936"><b>DETAILS</b></td>
+</tr>
+<tr><td align="center">⚔️ Main Weapon</td><td align="center">Unity</td></tr>
+<tr><td align="center">🛠️ Sub Weapon</td><td align="center">C#</td></tr>
+<tr><td align="center">🎨 Crafting</td><td align="center">Figma, Aseprite</td></tr>
+<tr><td align="center">🎮 Specialty</td><td align="center">Game UI</td></tr>
+<tr><td align="center">✨ Passive Skill</td><td align="center">Player-First Mindset</td></tr>
+<tr><td align="center">🏰 Guild</td><td align="center">Mega Cat Studios</td></tr>
+</table>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<h3 align="center">◈ SKILL TREE ◈</h3>
+
+<img src="https://img.shields.io/badge/STATUS-LEVELING%20UP-DAA520?style=for-the-badge">
+
+<table>
+<tr>
+<td align="center" bgcolor="#241936"><b>SKILL</b></td>
+<td align="center" bgcolor="#241936"><b>LEVEL</b></td>
+</tr>
+<tr><td align="center">Unity UI</td><td align="center">⭐⭐⭐⭐⭐</td></tr>
+<tr><td align="center">UI/UX Design</td><td align="center">⭐⭐⭐⭐</td></tr>
+<tr><td align="center">Manual QA</td><td align="center">⭐⭐⭐⭐</td></tr>
+<tr><td align="center">Pixel Art</td><td align="center">⭐⭐⭐⭐</td></tr>
+<tr><td align="center">Figma</td><td align="center">⭐⭐⭐⭐</td></tr>
+<tr><td align="center">C# Scripting</td><td align="center">⭐⭐⭐</td></tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+*Always learning. Always leveling up.*
+
+</div>
+
+---
+
+<div align="center">
+
+## ◈ PLAYER ACTIVITY ◈
+
+</div>
 
 <!-- pacman -->
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BeauBeannie/BeauBeannie/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BeauBeannie/BeauBeannie/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BeauBeannie/BeauBeannie/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BeauBeannie/BeauBeannie/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BeauBeannie/BeauBeannie/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/BeauBeannie/BeauBeannie/output/pacman-contribution-graph.svg" width="100%">
 </picture>
 
-_Generated with [abozanona/pacman-contribution-graph](https://github.com/abozanona/pacman-contribution-graph)_
+<div align="center">
 
 
+---
 
+<img src="./asset/mario-bros-star-star-arcade.gif" width="32">
 
+**100% HADES ACHIEVEMENT**
 
+<img src="./asset/zagreus-anikhai.gif" width="200" alt="Zagreus fishing">
+
+*Thanks for stopping by, fellow adventurer.*
+
+`INSERT COIN TO CONTINUE`
+
+</div>
